@@ -1,5 +1,3 @@
 ---
-title: me when the when the
+title: hi, i'm bako
 ---
-
-# hi, i'm bako
